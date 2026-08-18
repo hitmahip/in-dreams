@@ -1,6 +1,9 @@
 ---
 share: true
 publish: true
+tags:
+  - in-dreams
+  - PCs
 ---
 
 Small 
