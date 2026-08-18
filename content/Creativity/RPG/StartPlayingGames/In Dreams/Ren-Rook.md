@@ -24,5 +24,5 @@ Rook is super buff in the real world.
 
 Experiences a weird dream lady on the way home.
 Takes the card. It has an image that represents his dream self.
-She appears familiar- strong deja vu. Looks like [[./Dr Orla Grace|Dr Orla Grace]].
+She appears familiar- strong deja vu. Looks like [[./NPC/Dr Orla Grace|Dr Orla Grace]].
 
