@@ -1,6 +1,8 @@
 ---
-title: Welcome to Quartz
+share: true
+publish: true
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+![[./img/Pasted image 20260814083052.png|Pasted image 20260814083052.png]]
+
+![[./img/Base.base|Base.base]]
