@@ -8,3 +8,5 @@ views:
       property: file.tags
       direction: ASC
     cardSize: 320
+    image: note.imagePC
+    imageAspectRatio: 0.6

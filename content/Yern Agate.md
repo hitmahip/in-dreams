@@ -1,12 +1,14 @@
 ---
 publish: true
 created: 2026-08-18T07:41:09.300Z
-modified: 2026-08-18T12:01:59.253Z
+modified: 2026-08-18T14:02:36.193Z
 tags:
   - in-dreams
   - PCs
 ---
 
+![[zzz file repository/Yern_Agate_3.webp]]
+[[GIANT_THIRD_EYE.jpg]]
 I lied to Ren, and told them that my band was big in Myren Bay.
 
 Lucy Furrows wants me to protect N.O.R.A above all else. She thinks that Nora is very special and that if she dies she won't be able to research her more.
