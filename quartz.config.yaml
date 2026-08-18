@@ -284,6 +284,14 @@ plugins:
       defaultViewType: table
       linkResolution: shortest
     order: 50
+  - source:
+      name: quartz-themes
+      repo: github:saberzero1/quartz-themes
+      subdir: plugin
+    enabled: true
+    order: 50
+    options:
+      theme: its-theme.ttrpg-pathfinder
 layout:
   groups:
     toolbar:
