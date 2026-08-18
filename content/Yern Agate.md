@@ -2,6 +2,9 @@
 share: true
 publish: true
 player: earl
+tags:
+  - in-dreams
+  - PCs
 ---
 I lied to Ren, and told them that my band was big in Myren Bay.
 
