@@ -1,0 +1,8 @@
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - file.hasTag("npc")
+        - file.hasTag("in-dreams")
+    cardSize: 390

@@ -1,18 +1,22 @@
 ---
 publish: true
 created: 2026-08-18T07:39:14.905Z
-modified: 2026-08-18T13:04:58.017Z
+modified: 2026-08-18T13:18:40.842Z
 ---
+
+![[PCs.base]]
+
+![[NPC/NPC.base]]
 
 # In Dreams PCs
 
 - [[Yern Agate.md|Yern Agate]]
 - [[Reno-Dusk-Em.md|Reno-Dusk-Em]]
 - [[Ren-Rook.md|Ren-Rook]]
-- [[Nasira Heiffer.md|Nasira Heiffer]]
 - [[Nora.md|Nora]]
-- [[Lucy-Aurora Rosewood.md|Lucy-Aurora Rosewood]]
 - [[Chic Mantess.md|Chic Mantess]]
+- [[Nasira Heiffer.md|Nasira Heiffer]]
+- [[Lucy-Aurora Rosewood.md|Lucy-Aurora Rosewood]]
 
 # In Dreams NPCs
 
