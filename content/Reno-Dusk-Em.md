@@ -4,6 +4,9 @@ aliases:
   - Dusk
 publish: true
 share: true
+tags:
+  - in-dreams
+  - PCs
 ---
 
 Asymmetrical black and white hair.
