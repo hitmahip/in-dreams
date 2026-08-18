@@ -4,6 +4,9 @@ aliases:
   - Rook
 share: true
 publish: true
+tags:
+  - in-dreams
+  - PCs
 ---
 
 
