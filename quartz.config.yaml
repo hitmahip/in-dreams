@@ -1,13 +1,13 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Quartz 5
+  pageTitle: In Dreams
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: hitmahip.github.io/in-dreams
+  baseUrl: hitmahip.github.io/in-dreams/index.md
   ignorePatterns:
     - private
     - templates
